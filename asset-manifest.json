@@ -1,8 +1,22 @@
 {
-  "main.css": "static/css/main.38a49d2d.css",
-  "main.css.map": "static/css/main.38a49d2d.css.map",
-  "main.js": "static/js/main.fd195279.js",
-  "main.js.map": "static/js/main.fd195279.js.map",
-  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
-  "static\\media\\logo2.svg": "static/media/logo2.803189f1.svg"
+  "main.css": "static/css/main.b6e038de.css",
+  "main.css.map": "static/css/main.b6e038de.css.map",
+  "main.js": "static/js/main.80c832b5.js",
+  "main.js.map": "static/js/main.80c832b5.js.map",
+  "static\\media\\bank.svg": "static/media/bank.874bf8f2.svg",
+  "static\\media\\book-pile.svg": "static/media/book-pile.9169ea68.svg",
+  "static\\media\\briefcase.svg": "static/media/briefcase.d4d816ba.svg",
+  "static\\media\\castle.svg": "static/media/castle.a4001458.svg",
+  "static\\media\\church.svg": "static/media/church.f6d929da.svg",
+  "static\\media\\crown-coin.svg": "static/media/crown-coin.b0f61bb7.svg",
+  "static\\media\\diploma.svg": "static/media/diploma.73809e27.svg",
+  "static\\media\\graduate-cap.svg": "static/media/graduate-cap.5059c062.svg",
+  "static\\media\\greek-temple.svg": "static/media/greek-temple.37502c8d.svg",
+  "static\\media\\iron-cross.svg": "static/media/iron-cross.f3a16f51.svg",
+  "static\\media\\mayan-pyramid.svg": "static/media/mayan-pyramid.72e22367.svg",
+  "static\\media\\medieval-gate.svg": "static/media/medieval-gate.9f21d7e3.svg",
+  "static\\media\\shop.svg": "static/media/shop.9a02acc6.svg",
+  "static\\media\\tower-flag.svg": "static/media/tower-flag.7de7699c.svg",
+  "static\\media\\tron-arrow.svg": "static/media/tron-arrow.4ec1bfb3.svg",
+  "static\\media\\watchtower.svg": "static/media/watchtower.ed45e0c3.svg"
 }
